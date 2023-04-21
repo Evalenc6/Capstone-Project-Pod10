@@ -6,7 +6,7 @@ Submitted by:
 - **Evan Valencia**
 - **Ella Goode**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Summary
 
@@ -37,13 +37,10 @@ The following REQUIRED files are included:
 
 The following BONUS features are implemented:
 
-- [ ] Added digital wireframe/mockup image(s)
-- [ ] Added a GIF of an interactive prototype
+- [X] Added digital wireframe/mockup image(s)
 
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve your submission!
 
 ## Notes
 
-Here's a place for any other notes on this milestone!
+Learned how to create custom mds through the website called HackMD as well as
+working in a team to brainstorm an app idea.
