@@ -95,10 +95,13 @@ Here's a place for any other notes on the app, it's creation
 process, or what you learned this unit!  
 
 For Milestone 2, include **2+ GIFs** of the build process here!
+
+
 <img src='http://i.imgur.com/Ir2Mwsc.gif' title='Video Demo' width='' alt='Video Demo' />
 
 
 <img src='http://i.imgur.com/9Qika2H.gif' title='Video Demo' width='' alt='Video Demo' />
+
 ## License
 
 Copyright **2023** **Evan Valencia, Ella Goode, Bilal Khan**
