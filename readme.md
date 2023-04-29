@@ -1,6 +1,6 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Milestone 2 - **Pod 10/Groccery Planner XL**
+# AND101 Milestone 2 - **Pod 10/Grocery Planner XL**
 
 Submitted by:
 - **Evan Valencia**
