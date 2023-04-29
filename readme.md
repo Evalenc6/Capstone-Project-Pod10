@@ -1,6 +1,6 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Milestone 2 - **Team/App Name**
+# AND101 Milestone 2 - **Pod 10/Groccery Planner XL**
 
 Submitted by:
 - **Evan Valencia**
@@ -11,7 +11,7 @@ Time spent: **6** hours spent in total
 
 ## Summary
 
-This document provides a summary of our project building process for our app, **Grocery APP XL**
+This document provides a summary of our project building process for our app, **Grocery Planner XL**
 
 ## Milestone Requirements
 
