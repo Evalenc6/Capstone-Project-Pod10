@@ -32,8 +32,8 @@ Contains a database of recipes for users to choose from, as well as a form to ad
 
 Required Features:
 
-- Database of recipes from API
-- Ability to view instructions and ingredients from recipes
+- ~Database of recipes from API~
+- ~Ability to view instructions and ingredients from recipes~
 - Filtered search through recipes
 
 Stretch Features:
@@ -95,10 +95,13 @@ Here's a place for any other notes on the app, it's creation
 process, or what you learned this unit!  
 
 For Milestone 2, include **2+ GIFs** of the build process here!
+<img src='http://i.imgur.com/Ir2Mwsc.gif' title='Video Demo' width='' alt='Video Demo' />
 
+
+<img src='http://i.imgur.com/9Qika2H.gif' title='Video Demo' width='' alt='Video Demo' />
 ## License
 
-Copyright **2023** **Evan Valencia and Ella Goode**
+Copyright **2023** **Evan Valencia, Ella Goode, Bilal Khan**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
