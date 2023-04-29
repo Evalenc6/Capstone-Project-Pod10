@@ -1,20 +1,17 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Milestone 1 - **Pod 10/Grocery Planner XL**
+# AND101 Milestone 2 - **Team/App Name**
 
 Submitted by:
 - **Evan Valencia**
 - **Ella Goode**
 - **Bilal Khan**
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Summary
 
-This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **will allow you to search for recipes by
-cuisine, meal, and dish type as well as save them on your favorite recipe wall.**
-
-If we had to describe this milestone in three (3) emojis, they would be: **emojis here**
+This document provides a summary of our project building process for our app, **Grocery APP XL**
 
 ## Milestone Requirements
 
@@ -22,26 +19,25 @@ If we had to describe this milestone in three (3) emojis, they would be: **emoji
 
 The following REQUIRED features are completed:
 
-- [X] Creation of GitHub Organization and Group Project Repo
-- [X] Updated Course Portal group info with Group Name and App Description
+- [X] Assign features to each member of your group
+- [X] Establish a goal time for completing each feature
 
 The following REQUIRED files are included:
 
-- [X] Included 📄 `brainstorming.md`, which contains:
-  - [X] Our initial brainstorming ideas (6+ ideas)
-  - [X] 5-category evaluation of our top 3 ideas
-  - [X] Final app idea chosen
-- [X] Included 📄 `project_spec.md`, which contains:
-  - [X] App Overview: Description and evaluation
-  - [X] App Spec: User features, Chosen API(s), User Interactions
-  - [X] Wireframe image(s)
+- [X] Updated 📄 `project_spec.md`, which contains:
+  - [X] App Overview (Milestone 1)
+  - [X] App Spec (Milestone 1)
+  - [X] Checked off 2+ completed features
+  - [X] 2+ GIFs of build progress
 
-The following BONUS features are implemented:
+- [X] Our 🎥 Demo Video
+  - [X] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
-- [X] Added digital wireframe/mockup image(s)
+## 🎥 Demo Video
 
+Here's a video that demos all of the app's implemented features:
 
-## Notes
+<https://www.youtube.com/watch?v=xh-Ob3fGiUM>
 
-Learned how to create custom mds through the website called HackMD as well as
-working in a team to brainstorm an app idea.
+VIDEO created with **Streamlabs**
+
